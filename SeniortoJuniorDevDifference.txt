@@ -1,0 +1,41 @@
+Difference between Senior and junior developers.
+
+To aswer to you question , there are a lot of differeces:
+1. The salary 
+  If you are a junior is hard to ask a lot of money, so most of the time you accept what the company is given you to start from somewhere. If you are a senior and you pass the test that the IT company is given you, you can ask how much you want, and if the company has that money, they give you how much you want.
+
+2. Tasks
+  Like a junior is hard to figure out what is happening in a project, that you just entered, and that is why will take more time to finish task. A senior will see the big picture in a short time and will solve tasks faster.
+
+1
+
+3. Bugs
+  A lot of time, a junior, makes mistakes and doesn't understand what is wrong because doesn't have too much knowledge. It the same with a foreign that doesn't have in his vocabulary all words and can't express how he wants, because he doesn't know how to speak different words.
+
+4. Understad the business
+  When a junior enters in a project will be hard to understand the business because he is loaded with the new tasks and a lot of things to learn, for the new project. In contrast, a senior will go deeper to understand the business too, so in this way he can recommend new things, to the PM, to be added to project. Here is that fine differece from a junior and a senior, because most of the PM love from developers to participate to the project and come with new ideas. In this way we get bonuses, if the PM liked your idea and if you keep like this you are proposed to be a team lead. (edited)
+
+In order to get to this point you have to learn, every day, even in weekend. You have to be organized to have time for yourself, but to have time to learn every day, too.
+
+  So you have to learn a lot of courses, to get the basics and then to go deeper and deeper in posibility to get the whole picture like a fullstack developer.
+
+  What do you want: to be scared when the PM comes to you with a new task? Or to be relaxed, even make a joke with the PM, when he comes to you with a new task?
+
+  Very hot, right now are there libraries, because on linkedin you can find a lot, a lot of jobs, if you know them:
+
+  FE: HTML, CSS, Bootstrap, SASS, React, Redux, NextJS, Typescript
+  BE: Express, NodeJS, GraphQL, Mongoose, Sequlize, Knex
+
+  DB: Mongo, PostgreSQL
+
+  DevOps: Docker, Kubernetes, Ingress Nginx, Skaffold
+
+  Cloud: AWS, Google
+
+  CI Pipeline: Circle, Jenkins
+
+  Test: Jest, Enzyme, Supertest
+
+  If you learn these, most of the time, you can ask as much as you want, for salary. And after a lot of projects, you will not worry to search for a new jobs. You will be hunted on linkedin, every day, by a lot of companies.
+
+  The comapanies that can afford you, will say the salary from the beginning, to attract you. So you will get messages, on linkedin, with salary like 400 - 500 euro or dollars, per day, or something like 6000 to 20000 euro or dollars, per month, depending how you do on the test, or tests.
